@@ -3,7 +3,7 @@ import styled from "styled-components";
 export default function Footer(){
   return (
     <Wrapper>
-      <h2>Thank you to Visit our Site</h2>
+      <h2>Merci de visiter notre Site</h2>
     </Wrapper>
   );
 }

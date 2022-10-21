@@ -47,6 +47,13 @@ const Wrapper =styled.header`
     display: flex;
     margin-left: 1rem;
     margin-right: 1rem;
+    font-size: 1rem;
+  }
+  & button {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
   }
 `;
 
